@@ -2,6 +2,7 @@ bluetooth
 cyngn-app
 media
 networkstack
+nfc
 platform
 releasekey
 sdk_sandbox
